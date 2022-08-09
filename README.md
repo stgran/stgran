@@ -1,15 +1,13 @@
 ## Hi there, I'm Soren 👋  
 
-### I'm a writer, learner, and data scientist!
-
-- 👯 I'm looking to collaborate on projects (data science-focused or other)!
+- 👯 If you would like to collaborate on a project (data science-focused or other), please reach out.
 - 🌱 2022 goals: Learn more about software development
-- ⚡ Fun fact: I love chess and soccer. Find me on [Lichess](https://lichess.org/@/NurseDrunkenstein) and [Chess.com](https://www.chess.com/member/sorenfukboi).
+- ⚡ Fun fact: I love chess and soccer. Find me on [Lichess](https://lichess.org/@/NurseDrunkenstein).
 
 🔭 Check out some of my favorite projects!
 
-- I did a fun analysis of the Danish electrical grid and wrote a report for a fake EV charging app. Check it out [here](https://github.com/stgran/Optimizing-EV-Charging)
-- I built a fascinating topic model about facial recognition patents using Gensim. Check it out [here](https://github.com/stgran/LDA-Topic-Modeling)
+- I analyzed Danish electrical grid data and wrote a report for a fake EV charging app. Check it out [here](https://github.com/stgran/Optimizing-EV-Charging)
+- I built a topic model about facial recognition patents using Gensim. Check it out [here](https://github.com/stgran/LDA-Topic-Modeling)
 - I'm collecting tweets and stock price data so I can examine the relationship between Twitter and the stock market. Check it out [here](https://github.com/stgran/Stock-Sentiment-Project).
 
 📫 Reach out to me with questions and ideas!
