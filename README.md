@@ -1,8 +1,10 @@
 ## Hi there, I'm Soren 👋  
 
-- 👯 If you would like to collaborate on a project (data science-focused or other), please reach out.
-- 🌱 2022 goals: Learn more about software development
+- 👯 If you would like to collaborate on a project (data-focused or other), please reach out.
+- 🌱 2024 goals: Continue to expand my skills as a data engineer.  
 - ⚡ Fun fact: I love chess and soccer. Find me on [Lichess](https://lichess.org/@/NurseDrunkenstein).
+
+⚖️ Most recently, I worked as a Data Engineer at Legal Services Corporation. To get a feel for what I did there, check out [this repository](https://github.com/stgran/LSC-Work/tree/main/data-engineer_2022-2023).  
 
 🔭 Check out some of my favorite projects!
 
